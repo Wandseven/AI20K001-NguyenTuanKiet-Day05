@@ -1,3 +1,5 @@
+Link repo github nhóm: https://github.com/KhanhHaV/Group_13_Spec_day5VinAi
+
 ```
 AI20K001-NguyenTuanKiet-Day05/
 │
@@ -12,3 +14,4 @@ AI20K001-NguyenTuanKiet-Day05/
 │
 └── Nhom13-RoomE402/                            
      └── spec-draft.md                     ← SPEC draft (file nhóm)
+```
