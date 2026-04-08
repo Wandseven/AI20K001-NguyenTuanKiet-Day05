@@ -30,6 +30,12 @@ Kết quả: AI cảnh báo con số 1 tỷ là có vấn đề, yêu cầu ngư
 
 Nhận xét: Đây có vẻ là path yếu, vì AI chỉ nhận thấy con số 1 tỷ là phi lý và chưa nhận ra "tháng 14" không tồn tại.
 
+## Path yếu nhất: Path 3 + 4
+
+Khi sai, AI ghi nhận sai giá trị, không có feedback cho User confirm
+
+Chưa nhận thấy đủ các điểm bất thường 
+
 ## Gap giữa Marketing và thực tế
 
 ### Marketing
